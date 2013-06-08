@@ -9,7 +9,6 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.0.1'
 gem 'haml-rails'
 gem 'websocket-rails'
-gem 'd3_rails'
 
 group :doc do
   gem 'sdoc', require: false
