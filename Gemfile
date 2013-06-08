@@ -9,6 +9,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.0.1'
 gem 'haml-rails'
 gem 'websocket-rails'
+gem 'thin'
 
 group :doc do
   gem 'sdoc', require: false

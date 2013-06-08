@@ -144,6 +144,7 @@ DEPENDENCIES
   rails (= 4.0.0.rc1)
   sass-rails (~> 4.0.0.rc1)
   sdoc
+  thin
   turbolinks
   uglifier (>= 1.3.0)
   websocket-rails
